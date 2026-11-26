@@ -1,4 +1,4 @@
-<!-- BANNER --><img src="./banner.gif" width="100%" /><br/><!-- ABOUT ME -->ABOUT ME
+<img src="./banner.gif" width="100%" /><br/><!-- ABOUT ME -->ABOUT ME
 
 Yoo, I'm Fayren. Just a random kid bored with life, creating projects, still learning, still building, and always using AI.
 
