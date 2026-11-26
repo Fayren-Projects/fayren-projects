@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/59/9d/0d/599d0d9ed46bee9838cf52f59c0ee0fb.gif" width="100%" /><br/>ABOUT ME
+<img src="banner.gif" width="100%" /><br/>ABOUT ME
 
 Yoo, I'm Fayren. Just a random kid bored with life, creating projects, still learning, still building, and always using AI.
 
@@ -8,7 +8,7 @@ SKILLS
 
 <p>
   <img src="https://img.shields.io/badge/CLAUDE-0A1128?style=for-the-badge&logo=claude&logoColor=00D2FF" alt="Claude" />
-  <img src="https://img.shields.io/badge/CHATGPT-0A1128?style=for-the-badge&logo=openai&logoColor=00D2FF" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/CHATGPT-0A1128?style=for-the-badge&logo=chatgpt&logoColor=00D2FF" />
   <img src="https://img.shields.io/badge/GEMINI-0A1128?style=for-the-badge&logo=googlegemini&logoColor=00D2FF" alt="Gemini" />
 </p>---
 
