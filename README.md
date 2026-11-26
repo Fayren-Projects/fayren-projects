@@ -1,30 +1,30 @@
-<img src="banner.gif" width="100%" /><br/>ABOUT ME
+<!-- BANNER --><img src="./banner.gif" width="100%" /><br/><!-- ABOUT ME -->ABOUT ME
 
 Yoo, I'm Fayren. Just a random kid bored with life, creating projects, still learning, still building, and always using AI.
 
 ---
 
-SKILLS
+<!-- SKILLS -->SKILLS
 
 <p>
-  <img src="https://img.shields.io/badge/CLAUDE-0A1128?style=for-the-badge&logo=claude&logoColor=00D2FF" alt="Claude" />
-  <img src="https://img.shields.io/badge/CHATGPT-0A1128?style=for-the-badge&logo=chatgpt&logoColor=00D2FF" />
-  <img src="https://img.shields.io/badge/GEMINI-0A1128?style=for-the-badge&logo=googlegemini&logoColor=00D2FF" alt="Gemini" />
+  <img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/CHATGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>---
 
-CONTACT
+<!-- CONTACT -->CONTACT
 
 <p>
   <a href="https://instagram.com/usernamekamu">
-    <img src="https://img.shields.io/badge/INSTAGRAM-00B4D8?style=for-the-badge&logo=instagram&logoColor=0A1128" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://tiktok.com/@usernamekamu">
-    <img src="https://img.shields.io/badge/TIKTOK-00B4D8?style=for-the-badge&logo=tiktok&logoColor=0A1128" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://discord.com/users/idkamu">
-    <img src="https://img.shields.io/badge/DISCORD-00B4D8?style=for-the-badge&logo=discord&logoColor=0A1128" alt="Discord" />
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://x.com/usernamekamu">
-    <img src="https://img.shields.io/badge/X-00B4D8?style=for-the-badge&logo=x&logoColor=0A1128" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
