@@ -1,4 +1,5 @@
-<!-- BANNER --><img src="banner.gif" width="100%" /><br/><!-- ABOUT ME --><h2 align="center">ABOUT ME</h2><p align="center">
+<!-- BANNER --><img src="https://i.pinimg.com/originals/59/9d/0d/599d0d9ed46bee9838cf52f59c0ee0fb.gif
+" width="100%" /><br/><!-- ABOUT ME --><h2 align="center">ABOUT ME</h2><p align="center">
   Yoo, I'm <b>Fayren</b>. Just a random kid bored with life, creating projects, still learning, still building, and always using AI.
 </p><br/><!-- SKILLS --><h2 align="center">SKILLS & TOOLS</h2><p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,supabase,cloudflare,git,github" />
