@@ -1,19 +1,26 @@
-<img src="NewProject6107F70.gif" width="100%" /><br/><!-- ABOUT ME -->ABOUT ME
+<!-- BANNER -->
+<img src="./banner.gif" width="100%" />
 
-Yoo, I'm Fayren. Just a random kid bored with life, creating projects, still learning, still building, and always using AI.
+<br/>
+
+<!-- ABOUT ME -->
+<p><font size="4"><b>ABOUT ME</b></font></p>
+Yoo, I'm <b>Fayren</b>. Just a random kid bored with life, creating projects, still learning, still building, and always using AI.
 
 ---
 
-<!-- SKILLS -->SKILLS
-
+<!-- SKILLS -->
+<p><font size="4"><b>SKILLS</b></font></p>
 <p>
   <img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/CHATGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CHATGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-</p>---
+</p>
 
-<!-- CONTACT -->CONTACT
+---
 
+<!-- CONTACT -->
+<p><font size="4"><b>CONTACT</b></font></p>
 <p>
   <a href="https://instagram.com/usernamekamu">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
